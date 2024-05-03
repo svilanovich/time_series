@@ -6,4 +6,4 @@ numpy
 datetime
 scipy
 prophet
-sklearn
+scikit-learn
