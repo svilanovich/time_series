@@ -1,0 +1,11 @@
+pandas
+streamlit
+statsmodels.api
+matplotlib.pyplot
+numpy
+datetime
+scipy.fft.fft
+prophet.Prophet
+sklearn.metrics.mean_absolute_error
+sklearn.metrics.mean_squared_error
+sklearn.metrics.r2_score
