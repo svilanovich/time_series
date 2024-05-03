@@ -1,11 +1,9 @@
 pandas
 streamlit
 statsmodels
-matplotlib.pyplot
+matplotlib
 numpy
 datetime
-scipy.fft.fft
-prophet.Prophet
-sklearn.metrics.mean_absolute_error
-sklearn.metrics.mean_squared_error
-sklearn.metrics.r2_score
+scipy
+prophet
+sklearn
